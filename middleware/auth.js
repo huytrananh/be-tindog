@@ -1,32 +1,57 @@
-const jwt = require("jsonwebtoken")
-const User = require("../models/userModel")
+const jwt = require("jsonwebtoken");
+const User = require("../models/userModel");
 
-const AppError = require("../utils/appError");
-const catchAsync = require("../utils/catchAsync");
+// const catchAsync = require("../utils/catchAsync");
 
-exports.loginRequired = catchAsync(async (req, res, next) => { 
+exports.loginRequired = async (req, res, next) => {
 
-        if(!req.headers.authorization || !req.headers.authorization.startsWith("Bearer")){
-            return (new AppError(401,"Unauthorize 1"))
-        }
-
-        const token = req.headers.authorization.replace("Bearer ", "")
-        const decoded = jwt.verify(token, process.env.SECRET)
-
-        // decoded._id
-        const user = await User.findOne({_id: decoded, tokens: token})
-
-        if(!user){
-            return (new AppError(401,"Unauthorize 2"))
-        }
-        req.user = user
-
-        next()
-})
-
-exports.hostRequired = (req, res, next) => {
-    if(req.user.type !== 'host'){
-        return (new AppError(401,"Host required"))
+  try {
+    if (
+      !req.headers.authorization ||
+      !req.headers.authorization.startsWith("Bearer")
+    ) {
+      return res.status(401).json({
+        status: "fail",
+      });
     }
-    next()
-}
+    const token = req.headers.authorization.replace("Bearer ", "");
+
+    const decoded = jwt.verify(token, process.env.SECRET);
+
+    // decoded._id
+    const user = await User.findOne({ _id: decoded, tokens: token });
+    if (!user) {
+      return res.status(401).json({
+        status: "fail",
+      });
+    }
+    req.user = user;
+
+    next();
+  } catch (err) {
+    res.status(401).json({
+      status: "fail",
+      message: err.message,
+    });
+  }
+};
+
+exports.adminRequired = (req, res, next) => {
+  if (req.user.type !== "admin") {
+    res.status(401).json({
+      status: "fail",
+      message: "You are not Admin",
+    });
+  }
+  next();
+};
+
+exports.kennelRequired = async (req, res, next) => {
+  if (req.user.type !== "kennel") {
+    res.status(401).json({
+      status: "fail",
+      message: "You are not kennel",
+    });
+  }
+  next();
+};
