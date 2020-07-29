@@ -65,3 +65,13 @@ exports.loginFacebook = async (req, res, next) => {
   return res.status(200).json({ status: "success", data: { user, token } });
 };
 
+exports.logout = async (req, res, next) => {
+  try {
+    req.user.tokens = req.user.tokens.filter((el) => el != req.headers.authorization.replace("Bearer ", ""));
+    await req.user.save();
+    res.status(204).end();
+  } catch (error) {
+    console.log(error);
+    res.status(400).json({ status: "fail", error: "unauthorized" });
+  }
+}

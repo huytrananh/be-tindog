@@ -1,0 +1,2389 @@
+[{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8f5"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "23 - 29",
+  "sid": 1,
+  "lifeSpan": "10 - 12 years",
+  "name": "Affenpinscher",
+  "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
+  "weight": "3 - 6",
+  "image": "https://cdn2.thedogapi.com/images/0LJiOVlxp.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8f6"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "64 - 69",
+  "sid": 2,
+  "lifeSpan": "10 - 13 years",
+  "name": "Afghan Hound",
+  "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+  "weight": "23 - 27",
+  "image": "https://cdn2.thedogapi.com/images/VTbymwKqG.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8f7"
+  },
+  "favorite": 0,
+  "height": "76",
+  "sid": 3,
+  "lifeSpan": "11 years",
+  "name": "African Hunting Dog",
+  "temperament": "Wild, Hardworking, Dutiful",
+  "weight": "20 - 30",
+  "image": "https://cdn2.thedogapi.com/images/FQpFX5-UR.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8f8"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "53 - 58",
+  "sid": 4,
+  "lifeSpan": "10 - 13 years",
+  "name": "Airedale Terrier",
+  "temperament": "Outgoing, Friendly, Alert, Confident, Intelligent, Courageous",
+  "weight": "18 - 29",
+  "image": "https://cdn2.thedogapi.com/images/SJZIJgqEX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8f9"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "71 - 86",
+  "sid": 5,
+  "lifeSpan": "10 - 12 years",
+  "name": "Akbash Dog",
+  "temperament": "Loyal, Independent, Intelligent, Brave",
+  "weight": "41 - 54",
+  "image": "https://cdn2.thedogapi.com/images/W93JBCUzz.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8fa"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "61 - 71",
+  "sid": 6,
+  "lifeSpan": "10 - 14 years",
+  "name": "Akita",
+  "temperament": "Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous",
+  "weight": "29 - 52",
+  "image": "https://cdn2.thedogapi.com/images/H6UCIZJsc.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8fb"
+  },
+  "favorite": 0,
+  "breedGroup": "mixed",
+  "height": "46 - 61",
+  "sid": 7,
+  "lifeSpan": "12 - 13 years",
+  "name": "Alapaha Blue Blood Bulldog",
+  "temperament": "Loving, Protective, Trainable, Dutiful, Responsible",
+  "weight": "25 - 41",
+  "image": "https://cdn2.thedogapi.com/images/H_9Mcf3yk.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8fc"
+  },
+  "favorite": 0,
+  "breedGroup": "mixed",
+  "height": "58 - 66",
+  "sid": 8,
+  "lifeSpan": "10 - 13 years",
+  "name": "Alaskan Husky",
+  "temperament": "Friendly, Energetic, Loyal, Gentle, Confident",
+  "weight": "17 - 23",
+  "image": "https://cdn2.thedogapi.com/images/ryqWuE_1T.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8fd"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "58 - 64",
+  "sid": 9,
+  "lifeSpan": "12 - 15 years",
+  "name": "Alaskan Malamute",
+  "temperament": "Friendly, Affectionate, Devoted, Loyal, Dignified, Playful",
+  "weight": "29 - 45",
+  "image": "https://cdn2.thedogapi.com/images/0rx5_e-Ur.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8fe"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "56 - 69",
+  "sid": 10,
+  "lifeSpan": "10 - 12 years",
+  "name": "American Bulldog",
+  "temperament": "Friendly, Assertive, Energetic, Loyal, Gentle, Confident, Dominant",
+  "weight": "27 - 54",
+  "image": "https://cdn2.thedogapi.com/images/_bdHCzK_u.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b8ff"
+  },
+  "favorite": 0,
+  "breedGroup": "",
+  "height": "36 - 43",
+  "sid": 11,
+  "lifeSpan": "8 – 15 years",
+  "name": "American Bully",
+  "temperament": "Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous",
+  "weight": "14 - 68",
+  "image": "https://cdn2.thedogapi.com/images/srEbgkWEe.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b900"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "38 - 48",
+  "sid": 12,
+  "lifeSpan": "12 - 15 years",
+  "name": "American Eskimo Dog",
+  "temperament": "Friendly, Alert, Reserved, Intelligent, Protective",
+  "weight": "9 - 18",
+  "image": "https://cdn2.thedogapi.com/images/Bymjyec4m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b901"
+  },
+  "favorite": 0,
+  "height": "23 - 30",
+  "sid": 13,
+  "lifeSpan": "13 – 15 years",
+  "name": "American Eskimo Dog (Miniature)",
+  "temperament": "Friendly, Alert, Reserved, Intelligent, Protective",
+  "weight": "3 - 5",
+  "image": "https://cdn2.thedogapi.com/images/8jjWfmjNt.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b902"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "53 - 71",
+  "sid": 14,
+  "lifeSpan": "8 - 15 years",
+  "name": "American Foxhound",
+  "temperament": "Kind, Sweet-Tempered, Loyal, Independent, Intelligent, Loving",
+  "weight": "29 - 34",
+  "image": "https://cdn2.thedogapi.com/images/uISezUGDV.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b903"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "43 - 53",
+  "sid": 15,
+  "lifeSpan": "10 - 15 years",
+  "name": "American Pit Bull Terrier",
+  "temperament": "Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous",
+  "weight": "14 - 27",
+  "image": "https://cdn2.thedogapi.com/images/HkC31gcNm_1280.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b904"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "43 - 48",
+  "sid": 16,
+  "lifeSpan": "12 - 15 years",
+  "name": "American Staffordshire Terrier",
+  "temperament": "Tenacious, Friendly, Devoted, Loyal, Attentive, Courageous",
+  "weight": "23 - 27",
+  "image": "https://cdn2.thedogapi.com/images/rJIakgc4m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b905"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "38 - 46",
+  "sid": 17,
+  "lifeSpan": "10 - 12 years",
+  "name": "American Water Spaniel",
+  "temperament": "Friendly, Energetic, Obedient, Intelligent, Protective, Trainable",
+  "weight": "11 - 20",
+  "image": "https://cdn2.thedogapi.com/images/SkmRJl9VQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b906"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "69 - 74",
+  "sid": 18,
+  "lifeSpan": "11 - 13 years",
+  "name": "Anatolian Shepherd Dog",
+  "temperament": "Steady, Bold, Independent, Confident, Intelligent, Proud",
+  "weight": "36 - 68",
+  "image": "https://cdn2.thedogapi.com/images/BJT0Jx5Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b907"
+  },
+  "favorite": 0,
+  "height": "51 - 56",
+  "sid": 19,
+  "lifeSpan": "12 – 14 years",
+  "name": "Appenzeller Sennenhund",
+  "temperament": "Reliable, Fearless, Energetic, Lively, Self-assured",
+  "weight": "22 - 25",
+  "image": "https://cdn2.thedogapi.com/images/HkNkxlqEX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b908"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "43 - 51",
+  "sid": 21,
+  "lifeSpan": "12 - 14 years",
+  "name": "Australian Cattle Dog",
+  "temperament": "Cautious, Energetic, Loyal, Obedient, Protective, Brave",
+  "weight": "20 - 28",
+  "image": "https://cdn2.thedogapi.com/images/g8KDO0Yvd.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b909"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "43 - 51",
+  "sid": 22,
+  "lifeSpan": "10 - 13 years",
+  "name": "Australian Kelpie",
+  "temperament": "Friendly, Energetic, Alert, Loyal, Intelligent, Eager",
+  "weight": "14 - 21",
+  "image": "https://cdn2.thedogapi.com/images/Hyq1ge9VQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b90a"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "46 - 58",
+  "sid": 23,
+  "lifeSpan": "12 - 16 years",
+  "name": "Australian Shepherd",
+  "temperament": "Good-natured, Affectionate, Intelligent, Active, Protective",
+  "weight": "16 - 29",
+  "image": "https://cdn2.thedogapi.com/images/B1-llgq4m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b90b"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "25 - 28",
+  "sid": 24,
+  "lifeSpan": "15 years",
+  "name": "Australian Terrier",
+  "temperament": "Spirited, Alert, Loyal, Companionable, Even Tempered, Courageous",
+  "weight": "6 - 7",
+  "image": "https://cdn2.thedogapi.com/images/r1Ylge5Vm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b90c"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "58 - 74",
+  "sid": 25,
+  "lifeSpan": "10 - 13 years",
+  "name": "Azawakh",
+  "temperament": "Aloof, Affectionate, Attentive, Rugged, Fierce, Refined",
+  "weight": "15 - 25",
+  "image": "https://cdn2.thedogapi.com/images/SkvZgx94m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b90d"
+  },
+  "favorite": 0,
+  "height": "51 - 66",
+  "sid": 26,
+  "lifeSpan": "13 – 15 years",
+  "name": "Barbet",
+  "temperament": "Obedient, Companionable, Intelligent, Joyful",
+  "weight": "18 - 29",
+  "image": "https://cdn2.thedogapi.com/images/HyWGexcVQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b90e"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "41 - 43",
+  "sid": 28,
+  "lifeSpan": "10 - 12 years",
+  "name": "Basenji",
+  "temperament": "Affectionate, Energetic, Alert, Curious, Playful, Intelligent",
+  "weight": "10 - 11",
+  "image": "https://cdn2.thedogapi.com/images/H1dGlxqNQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b90f"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "33 - 38",
+  "sid": 29,
+  "lifeSpan": "10 - 14 years",
+  "name": "Basset Bleu de Gascogne",
+  "temperament": "Affectionate, Lively, Agile, Curious, Happy, Active",
+  "weight": "16 - 18",
+  "image": "https://cdn2.thedogapi.com/images/BkMQll94X_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b910"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "36",
+  "sid": 30,
+  "lifeSpan": "12 - 15 years",
+  "name": "Basset Hound",
+  "temperament": "Tenacious, Friendly, Affectionate, Devoted, Sweet-Tempered, Gentle",
+  "weight": "23 - 29",
+  "image": "https://cdn2.thedogapi.com/images/Sy57xx9EX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b911"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "33 - 38",
+  "sid": 31,
+  "lifeSpan": "13 - 16 years",
+  "name": "Beagle",
+  "temperament": "Amiable, Even Tempered, Excitable, Determined, Gentle, Intelligent",
+  "weight": "9 - 16",
+  "image": "https://cdn2.thedogapi.com/images/Syd4xxqEm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b912"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "51 - 56",
+  "sid": 32,
+  "lifeSpan": "12 - 14 years",
+  "name": "Bearded Collie",
+  "temperament": "Self-confidence, Hardy, Lively, Alert, Intelligent, Active",
+  "weight": "20 - 25",
+  "image": "https://cdn2.thedogapi.com/images/x0N6Jg0nw.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b913"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "61 - 70",
+  "sid": 33,
+  "lifeSpan": "10 - 12 years",
+  "name": "Beauceron",
+  "temperament": "Fearless, Friendly, Intelligent, Protective, Calm",
+  "weight": "36 - 50",
+  "image": "https://cdn2.thedogapi.com/images/HJQ8ge5V7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b914"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "38 - 41",
+  "sid": 34,
+  "lifeSpan": "14 - 16 years",
+  "name": "Bedlington Terrier",
+  "temperament": "Affectionate, Spirited, Intelligent, Good-tempered",
+  "weight": "8 - 10",
+  "image": "https://cdn2.thedogapi.com/images/ByK8gx947_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b915"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "56 - 66",
+  "sid": 36,
+  "lifeSpan": "12 - 14 years",
+  "name": "Belgian Malinois",
+  "temperament": "Watchful, Alert, Stubborn, Friendly, Confident, Hard-working, Active, Protective",
+  "weight": "18 - 36",
+  "image": "https://cdn2.thedogapi.com/images/r1f_ll5VX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b916"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "56 - 66",
+  "sid": 38,
+  "lifeSpan": "10 - 12 years",
+  "name": "Belgian Tervuren",
+  "temperament": "Energetic, Alert, Loyal, Intelligent, Attentive, Protective",
+  "weight": "18 - 29",
+  "image": "https://cdn2.thedogapi.com/images/B1KdxlcNX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b917"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "58 - 70",
+  "sid": 41,
+  "lifeSpan": "7 - 10 years",
+  "name": "Bernese Mountain Dog",
+  "temperament": "Affectionate, Loyal, Intelligent, Faithful",
+  "weight": "29 - 54",
+  "image": "https://cdn2.thedogapi.com/images/S1fFlx5Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b918"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "24 - 29",
+  "sid": 42,
+  "lifeSpan": "15 years",
+  "name": "Bichon Frise",
+  "temperament": "Feisty, Affectionate, Cheerful, Playful, Gentle, Sensitive",
+  "weight": "5 - 8",
+  "image": "https://cdn2.thedogapi.com/images/HkuYlxqEQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b919"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "58 - 69",
+  "sid": 43,
+  "lifeSpan": "10 - 12 years",
+  "name": "Black and Tan Coonhound",
+  "temperament": "Easygoing, Gentle, Adaptable, Trusting, Even Tempered, Lovable",
+  "weight": "29 - 45",
+  "image": "https://cdn2.thedogapi.com/images/HJAFgxcNQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b91a"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "58 - 69",
+  "sid": 45,
+  "lifeSpan": "8 - 10 years",
+  "name": "Bloodhound",
+  "temperament": "Stubborn, Affectionate, Gentle, Even Tempered",
+  "weight": "36 - 50",
+  "image": "https://cdn2.thedogapi.com/images/Skdcgx9VX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b91b"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "53 - 69",
+  "sid": 47,
+  "lifeSpan": "12 - 14 years",
+  "name": "Bluetick Coonhound",
+  "temperament": "Friendly, Intelligent, Active",
+  "weight": "20 - 36",
+  "image": "https://cdn2.thedogapi.com/images/rJxieg9VQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b91c"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "56 - 69",
+  "sid": 48,
+  "lifeSpan": "10 - 12 years",
+  "name": "Boerboel",
+  "temperament": "Obedient, Confident, Intelligent, Dominant, Territorial",
+  "weight": "50 - 91",
+  "image": "https://cdn2.thedogapi.com/images/HyOjge5Vm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b91d"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "46 - 56",
+  "sid": 50,
+  "lifeSpan": "12 - 16 years",
+  "name": "Border Collie",
+  "temperament": "Tenacious, Keen, Energetic, Responsive, Alert, Intelligent",
+  "weight": "14 - 20",
+  "image": "https://cdn2.thedogapi.com/images/SnbUh5ntS.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b91e"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "28 - 41",
+  "sid": 51,
+  "lifeSpan": "12 - 14 years",
+  "name": "Border Terrier",
+  "temperament": "Fearless, Affectionate, Alert, Obedient, Intelligent, Even Tempered",
+  "weight": "5 - 7",
+  "image": "https://cdn2.thedogapi.com/images/HJOpge9Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b91f"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "41 - 43",
+  "sid": 53,
+  "lifeSpan": "11 - 13 years",
+  "name": "Boston Terrier",
+  "temperament": "Friendly, Lively, Intelligent",
+  "weight": "5 - 11",
+  "image": "https://cdn2.thedogapi.com/images/rkZRggqVX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b920"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "60 - 70",
+  "sid": 54,
+  "lifeSpan": "10 - 15 years",
+  "name": "Bouvier des Flandres",
+  "temperament": "Protective, Loyal, Gentle, Intelligent, Familial, Rational",
+  "weight": "32 - 50",
+  "image": "https://cdn2.thedogapi.com/images/Byd0xl5VX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b921"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "55 - 64",
+  "sid": 55,
+  "lifeSpan": "8 - 10 years",
+  "name": "Boxer",
+  "temperament": "Devoted, Fearless, Friendly, Cheerful, Energetic, Loyal, Playful, Confident, Intelligent, Bright, Brave, Calm",
+  "weight": "23 - 32",
+  "image": "https://cdn2.thedogapi.com/images/ry1kWe5VQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b922"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "36 - 46",
+  "sid": 56,
+  "lifeSpan": "10 - 14 years",
+  "name": "Boykin Spaniel",
+  "temperament": "Friendly, Energetic, Companionable, Intelligent, Eager, Trainable",
+  "weight": "11 - 18",
+  "image": "https://cdn2.thedogapi.com/images/ryHJZlcNX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b923"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "55 - 67",
+  "sid": 57,
+  "lifeSpan": "10 - 12 years",
+  "name": "Bracco Italiano",
+  "temperament": "Stubborn, Affectionate, Loyal, Playful, Companionable, Trainable",
+  "weight": "25 - 40",
+  "image": "https://cdn2.thedogapi.com/images/S13yZg5VQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b924"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "56 - 69",
+  "sid": 58,
+  "lifeSpan": "10 - 12 years",
+  "name": "Briard",
+  "temperament": "Fearless, Loyal, Obedient, Intelligent, Faithful, Protective",
+  "weight": "32 - 41",
+  "image": "https://cdn2.thedogapi.com/images/rkVlblcEQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b925"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "44 - 52",
+  "sid": 59,
+  "lifeSpan": "12 - 14 years",
+  "name": "Brittany",
+  "temperament": "Agile, Adaptable, Quick, Intelligent, Attentive, Happy",
+  "weight": "14 - 20",
+  "image": "https://cdn2.thedogapi.com/images/HJWZZxc4X_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b926"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "53 - 56",
+  "sid": 61,
+  "lifeSpan": "10 - 12 years",
+  "name": "Bull Terrier",
+  "temperament": "Trainable, Protective, Sweet-Tempered, Keen, Active",
+  "weight": "23 - 32",
+  "image": "https://cdn2.thedogapi.com/images/E0iEH4Nof.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b927"
+  },
+  "favorite": 0,
+  "height": "25 - 36",
+  "sid": 62,
+  "lifeSpan": "11 – 14 years",
+  "name": "Bull Terrier (Miniature)",
+  "temperament": "Trainable, Protective, Sweet-Tempered, Keen, Active, Territorial",
+  "weight": "11 - 15",
+  "image": "https://cdn2.thedogapi.com/images/BkKZWlcVX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b928"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "61 - 69",
+  "sid": 64,
+  "lifeSpan": "8 - 12 years",
+  "name": "Bullmastiff",
+  "temperament": "Docile, Reliable, Devoted, Alert, Loyal, Reserved, Loving, Protective, Powerful, Calm, Courageous",
+  "weight": "45 - 59",
+  "image": "https://cdn2.thedogapi.com/images/r1ifZl5E7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b929"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "23 - 25",
+  "sid": 65,
+  "lifeSpan": "14 - 15 years",
+  "name": "Cairn Terrier",
+  "temperament": "Hardy, Fearless, Assertive, Gay, Intelligent, Active",
+  "weight": "6 - 6",
+  "image": "https://cdn2.thedogapi.com/images/Sk7Qbg9E7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b92a"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "60 - 70",
+  "sid": 67,
+  "lifeSpan": "10 - 11 years",
+  "name": "Cane Corso",
+  "temperament": "Trainable, Reserved, Stable, Quiet, Even Tempered, Calm",
+  "weight": "40 - 54",
+  "image": "https://cdn2.thedogapi.com/images/r15m-lc4m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b92b"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "27 - 32",
+  "sid": 68,
+  "lifeSpan": "12 - 14 years",
+  "name": "Cardigan Welsh Corgi",
+  "temperament": "Affectionate, Devoted, Alert, Companionable, Intelligent, Active",
+  "weight": "11 - 17",
+  "image": "https://cdn2.thedogapi.com/images/SyXN-e9NX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b92c"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "51 - 66",
+  "sid": 69,
+  "lifeSpan": "10 - 12 years",
+  "name": "Catahoula Leopard Dog",
+  "temperament": "Energetic, Inquisitive, Independent, Gentle, Intelligent, Loving",
+  "weight": "23 - 43",
+  "image": "https://cdn2.thedogapi.com/images/BJcNbec4X_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b92d"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "61 - 85",
+  "sid": 70,
+  "lifeSpan": "10 - 12 years",
+  "name": "Caucasian Shepherd (Ovcharka)",
+  "temperament": "Alert, Quick, Dominant, Powerful, Calm, Strong",
+  "weight": "36 - 45",
+  "image": "https://cdn2.thedogapi.com/images/r1rrWe5Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b92e"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "30 - 33",
+  "sid": 71,
+  "lifeSpan": "10 - 14 years",
+  "name": "Cavalier King Charles Spaniel",
+  "temperament": "Fearless, Affectionate, Sociable, Patient, Playful, Adaptable",
+  "weight": "6 - 8",
+  "image": "https://cdn2.thedogapi.com/images/HJRBbe94Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b92f"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "53 - 66",
+  "sid": 76,
+  "lifeSpan": "10 - 13 years",
+  "name": "Chesapeake Bay Retriever",
+  "temperament": "Affectionate, Intelligent, Quiet, Dominant, Happy, Protective",
+  "weight": "25 - 36",
+  "image": "https://cdn2.thedogapi.com/images/4jvZUBiYC.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b930"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "28 - 33",
+  "sid": 78,
+  "lifeSpan": "10 - 14 years",
+  "name": "Chinese Crested",
+  "temperament": "Affectionate, Sweet-Tempered, Lively, Alert, Playful, Happy",
+  "weight": "5 - 6",
+  "image": "https://cdn2.thedogapi.com/images/B1pDZx9Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b931"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "46 - 51",
+  "sid": 79,
+  "lifeSpan": "10 years",
+  "name": "Chinese Shar-Pei",
+  "temperament": "Suspicious, Affectionate, Devoted, Reserved, Independent, Loving",
+  "weight": "20 - 27",
+  "image": "https://cdn2.thedogapi.com/images/B1ruWl94Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b932"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "56 - 66",
+  "sid": 80,
+  "lifeSpan": "12 - 15 years",
+  "name": "Chinook",
+  "temperament": "Friendly, Alert, Dignified, Intelligent, Calm",
+  "weight": "23 - 41",
+  "image": "https://cdn2.thedogapi.com/images/Sypubg54Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b933"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "43 - 51",
+  "sid": 81,
+  "lifeSpan": "12 - 15 years",
+  "name": "Chow Chow",
+  "temperament": "Aloof, Loyal, Independent, Quiet",
+  "weight": "18 - 32",
+  "image": "https://cdn2.thedogapi.com/images/ry8KWgqEQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b934"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "43 - 51",
+  "sid": 84,
+  "lifeSpan": "10 - 12 years",
+  "name": "Clumber Spaniel",
+  "temperament": "Affectionate, Loyal, Dignified, Gentle, Calm, Great-hearted",
+  "weight": "25 - 39",
+  "image": "https://cdn2.thedogapi.com/images/rkeqWgq4Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b935"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "36 - 38",
+  "sid": 86,
+  "lifeSpan": "12 - 15 years",
+  "name": "Cocker Spaniel",
+  "temperament": "Trainable, Friendly, Affectionate, Playful, Quiet, Faithful",
+  "weight": "9 - 14",
+  "image": "https://cdn2.thedogapi.com/images/gW4R5SWbV.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b936"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "36 - 38",
+  "sid": 87,
+  "lifeSpan": "12 - 15 years",
+  "name": "Cocker Spaniel (American)",
+  "temperament": "Outgoing, Sociable, Trusting, Joyful, Even Tempered, Merry",
+  "weight": "9 - 14",
+  "image": "https://cdn2.thedogapi.com/images/HkRcZe547_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b937"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "23 - 28",
+  "sid": 89,
+  "lifeSpan": "13 - 16 years",
+  "name": "Coton de Tulear",
+  "temperament": "Affectionate, Lively, Playful, Intelligent, Trainable, Vocal",
+  "weight": "4 - 7",
+  "image": "https://cdn2.thedogapi.com/images/SyviZlqNm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b938"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "48 - 58",
+  "sid": 92,
+  "lifeSpan": "10 - 13 years",
+  "name": "Dalmatian",
+  "temperament": "Outgoing, Friendly, Energetic, Playful, Sensitive, Intelligent, Active",
+  "weight": "23 - 25",
+  "image": "https://cdn2.thedogapi.com/images/SkJ3blcN7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b939"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "61 - 71",
+  "sid": 94,
+  "lifeSpan": "10 years",
+  "name": "Doberman Pinscher",
+  "temperament": "Fearless, Energetic, Alert, Loyal, Obedient, Confident, Intelligent",
+  "weight": "30 - 40",
+  "image": "https://cdn2.thedogapi.com/images/HyL3bl94Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b93a"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "60 - 69",
+  "sid": 95,
+  "lifeSpan": "10 - 12 years",
+  "name": "Dogo Argentino",
+  "temperament": "Friendly, Affectionate, Cheerful, Loyal, Tolerant, Protective",
+  "weight": "36 - 45",
+  "image": "https://cdn2.thedogapi.com/images/S1nhWx94Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b93b"
+  },
+  "favorite": 0,
+  "height": "56 - 62",
+  "sid": 98,
+  "lifeSpan": "15 years",
+  "name": "Dutch Shepherd",
+  "temperament": "Reliable, Affectionate, Alert, Loyal, Obedient, Trainable",
+  "weight": "23 - 32",
+  "image": "https://cdn2.thedogapi.com/images/BkE6Wg5E7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b93c"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "61 - 64",
+  "sid": 101,
+  "lifeSpan": "12 years",
+  "name": "English Setter",
+  "temperament": "Strong Willed, Mischievous, Affectionate, Energetic, Playful, Companionable, Gentle, Hard-working, Intelligent, Eager, People-Oriented",
+  "weight": "20 - 36",
+  "image": "https://cdn2.thedogapi.com/images/By4A-eqVX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b93d"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "46 - 58",
+  "sid": 102,
+  "lifeSpan": "10 - 13 years",
+  "name": "English Shepherd",
+  "temperament": "Kind, Energetic, Independent, Adaptable, Intelligent, Bossy",
+  "weight": "20 - 30",
+  "image": "https://cdn2.thedogapi.com/images/H1QyMe5EQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b93e"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "48 - 51",
+  "sid": 103,
+  "lifeSpan": "12 - 14 years",
+  "name": "English Springer Spaniel",
+  "temperament": "Affectionate, Cheerful, Alert, Intelligent, Attentive, Active",
+  "weight": "16 - 23",
+  "image": "https://cdn2.thedogapi.com/images/Hk0Jfe5VQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b93f"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "25",
+  "sid": 104,
+  "lifeSpan": "10 - 12 years",
+  "name": "English Toy Spaniel",
+  "temperament": "Affectionate, Reserved, Playful, Gentle, Happy, Loving",
+  "weight": "4 - 6",
+  "image": "https://cdn2.thedogapi.com/images/SkIgzxqNQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b940"
+  },
+  "favorite": 0,
+  "height": "25 - 30",
+  "sid": 105,
+  "lifeSpan": "12 - 13 years",
+  "name": "English Toy Terrier",
+  "temperament": "Stubborn, Alert, Companionable, Intelligent, Cunning, Trainable",
+  "weight": "3 - 4",
+  "image": "https://cdn2.thedogapi.com/images/SJ6eMxqEQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b941"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "52 - 60",
+  "sid": 107,
+  "lifeSpan": "12 - 14 years",
+  "name": "Eurasier",
+  "temperament": "Alert, Reserved, Intelligent, Even Tempered, Watchful, Calm",
+  "weight": "18 - 32",
+  "image": "https://cdn2.thedogapi.com/images/S1VWGx9Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b942"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "43 - 46",
+  "sid": 108,
+  "lifeSpan": "11 - 15 years",
+  "name": "Field Spaniel",
+  "temperament": "Docile, Cautious, Sociable, Sensitive, Adaptable, Familial",
+  "weight": "16 - 23",
+  "image": "https://cdn2.thedogapi.com/images/SkJfGecE7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b943"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "41 - 53",
+  "sid": 110,
+  "lifeSpan": "12 - 15 years",
+  "name": "Finnish Lapphund",
+  "temperament": "Friendly, Keen, Faithful, Calm, Courageous",
+  "weight": "15 - 24",
+  "image": "https://cdn2.thedogapi.com/images/S1KMGg5Vm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b944"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "39 - 51",
+  "sid": 111,
+  "lifeSpan": "12 - 15 years",
+  "name": "Finnish Spitz",
+  "temperament": "Playful, Loyal, Independent, Intelligent, Happy, Vocal",
+  "weight": "10 - 13",
+  "image": "https://cdn2.thedogapi.com/images/jPiMLwaJh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b945"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "28 - 30",
+  "sid": 113,
+  "lifeSpan": "9 - 11 years",
+  "name": "French Bulldog",
+  "temperament": "Playful, Affectionate, Keen, Sociable, Lively, Alert, Easygoing, Patient, Athletic, Bright",
+  "weight": "13",
+  "image": "https://cdn2.thedogapi.com/images/HyWNfxc47_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b946"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "43 - 51",
+  "sid": 114,
+  "lifeSpan": "12 - 14 years",
+  "name": "German Pinscher",
+  "temperament": "Spirited, Lively, Intelligent, Loving, Even Tempered, Familial",
+  "weight": "11 - 20",
+  "image": "https://cdn2.thedogapi.com/images/B1u4zgqE7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b947"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "56 - 66",
+  "sid": 115,
+  "lifeSpan": "10 - 13 years",
+  "name": "German Shepherd Dog",
+  "temperament": "Alert, Loyal, Obedient, Curious, Confident, Intelligent, Watchful, Courageous",
+  "weight": "23 - 41",
+  "image": "https://cdn2.thedogapi.com/images/SJyBfg5NX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b948"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "53 - 64",
+  "sid": 116,
+  "lifeSpan": "12 - 14 years",
+  "name": "German Shorthaired Pointer",
+  "temperament": "Boisterous, Bold, Affectionate, Intelligent, Cooperative, Trainable",
+  "weight": "20 - 32",
+  "image": "https://cdn2.thedogapi.com/images/SJqBMg5Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b949"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "60 - 70",
+  "sid": 119,
+  "lifeSpan": "10 - 12 years",
+  "name": "Giant Schnauzer",
+  "temperament": "Strong Willed, Kind, Loyal, Intelligent, Dominant, Powerful",
+  "weight": "29 - 41",
+  "image": "https://cdn2.thedogapi.com/images/H1NIzlcV7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b94a"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "32 - 36",
+  "sid": 120,
+  "lifeSpan": "12 - 15 years",
+  "name": "Glen of Imaal Terrier",
+  "temperament": "Spirited, Agile, Loyal, Gentle, Active, Courageous",
+  "weight": "15 - 18",
+  "image": "https://cdn2.thedogapi.com/images/H1oLMe94m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b94b"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "55 - 61",
+  "sid": 121,
+  "lifeSpan": "10 - 12 years",
+  "name": "Golden Retriever",
+  "temperament": "Intelligent, Kind, Reliable, Friendly, Trustworthy, Confident",
+  "weight": "25 - 34",
+  "image": "https://cdn2.thedogapi.com/images/HJ7Pzg5EQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b94c"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "58 - 69",
+  "sid": 123,
+  "lifeSpan": "10 - 12 years",
+  "name": "Gordon Setter",
+  "temperament": "Fearless, Alert, Loyal, Confident, Gay, Eager",
+  "weight": "20 - 36",
+  "image": "https://cdn2.thedogapi.com/images/SJ5vzx5NX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b94d"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "71 - 81",
+  "sid": 124,
+  "lifeSpan": "7 - 10 years",
+  "name": "Great Dane",
+  "temperament": "Friendly, Devoted, Reserved, Gentle, Confident, Loving",
+  "weight": "50 - 86",
+  "image": "https://cdn2.thedogapi.com/images/B1Edfl9NX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b94e"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "64 - 81",
+  "sid": 125,
+  "lifeSpan": "10 - 12 years",
+  "name": "Great Pyrenees",
+  "temperament": "Strong Willed, Fearless, Affectionate, Patient, Gentle, Confident",
+  "weight": "39 - 52",
+  "image": "https://cdn2.thedogapi.com/images/B12uzg9V7_1280.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b94f"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "69 - 76",
+  "sid": 127,
+  "lifeSpan": "10 - 13 years",
+  "name": "Greyhound",
+  "temperament": "Affectionate, Athletic, Gentle, Intelligent, Quiet, Even Tempered",
+  "weight": "23 - 32",
+  "image": "https://cdn2.thedogapi.com/images/ryNYMx94X_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b950"
+  },
+  "favorite": 0,
+  "height": "23 - 28",
+  "sid": 128,
+  "lifeSpan": "10 – 15 years",
+  "name": "Griffon Bruxellois",
+  "temperament": "Self-important, Inquisitive, Alert, Companionable, Sensitive, Watchful",
+  "weight": "5",
+  "image": "https://cdn2.thedogapi.com/images/ryoYGec4Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b951"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "46 - 56",
+  "sid": 129,
+  "lifeSpan": "12 - 15 years",
+  "name": "Harrier",
+  "temperament": "Outgoing, Friendly, Cheerful, Sweet-Tempered, Tolerant, Active",
+  "weight": "18 - 27",
+  "image": "https://cdn2.thedogapi.com/images/B1IcfgqE7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b952"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "22 - 29",
+  "sid": 130,
+  "lifeSpan": "14 - 15 years",
+  "name": "Havanese",
+  "temperament": "Affectionate, Responsive, Playful, Companionable, Gentle, Intelligent",
+  "weight": "3 - 6",
+  "image": "https://cdn2.thedogapi.com/images/rkXiGl9V7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b953"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "61 - 69",
+  "sid": 134,
+  "lifeSpan": "10 - 11 years",
+  "name": "Irish Setter",
+  "temperament": "Affectionate, Energetic, Lively, Independent, Playful, Companionable",
+  "weight": "16 - 32",
+  "image": "https://cdn2.thedogapi.com/images/S1osGeqVm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b954"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "46",
+  "sid": 135,
+  "lifeSpan": "12 - 16 years",
+  "name": "Irish Terrier",
+  "temperament": "Respectful, Lively, Intelligent, Dominant, Protective, Trainable",
+  "weight": "11 - 12",
+  "image": "https://cdn2.thedogapi.com/images/By-hGecVX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b955"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "76 - 89",
+  "sid": 137,
+  "lifeSpan": "6 - 8 years",
+  "name": "Irish Wolfhound",
+  "temperament": "Sweet-Tempered, Loyal, Dignified, Patient, Thoughtful, Generous",
+  "weight": "48 - 82",
+  "image": "https://cdn2.thedogapi.com/images/Hyd2zgcEX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b956"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "33 - 38",
+  "sid": 138,
+  "lifeSpan": "12 - 15 years",
+  "name": "Italian Greyhound",
+  "temperament": "Mischievous, Affectionate, Agile, Athletic, Companionable, Intelligent",
+  "weight": "3 - 7",
+  "image": "https://cdn2.thedogapi.com/images/SJAnzg9NX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b957"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "20 - 28",
+  "sid": 140,
+  "lifeSpan": "12 - 14 years",
+  "name": "Japanese Chin",
+  "temperament": "Alert, Loyal, Independent, Intelligent, Loving, Cat-like",
+  "weight": "2 - 4",
+  "image": "https://cdn2.thedogapi.com/images/r1H6feqEm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b958"
+  },
+  "favorite": 0,
+  "height": "30 - 38",
+  "sid": 141,
+  "lifeSpan": "10 – 16 years",
+  "name": "Japanese Spitz",
+  "temperament": "Affectionate, Obedient, Playful, Companionable, Intelligent, Proud",
+  "weight": "7 - 9",
+  "image": "https://cdn2.thedogapi.com/images/HksaMxqNX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b959"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "43 - 46",
+  "sid": 142,
+  "lifeSpan": "12 - 15 years",
+  "name": "Keeshond",
+  "temperament": "Agile, Obedient, Playful, Quick, Sturdy, Bright",
+  "weight": "16 - 20",
+  "image": "https://cdn2.thedogapi.com/images/S1GAGg9Vm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b95a"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "65 - 70",
+  "sid": 144,
+  "lifeSpan": "10 - 12 years",
+  "name": "Komondor",
+  "temperament": "Steady, Fearless, Affectionate, Independent, Gentle, Calm",
+  "weight": "36 - 45",
+  "image": "https://cdn2.thedogapi.com/images/Bko0fl547_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b95b"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "36 - 41",
+  "sid": 145,
+  "lifeSpan": "12 - 15 years",
+  "name": "Kooikerhondje",
+  "temperament": "Benevolent, Agile, Alert, Intelligent, Active, Territorial",
+  "weight": "9 - 14",
+  "image": "https://cdn2.thedogapi.com/images/4CUZk1TCM.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b95c"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "66 - 76",
+  "sid": 147,
+  "lifeSpan": "8 - 10 years",
+  "name": "Kuvasz",
+  "temperament": "Clownish, Loyal, Patient, Independent, Intelligent, Protective",
+  "weight": "32 - 52",
+  "image": "https://cdn2.thedogapi.com/images/BykZ7ecVX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b95d"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "55 - 62",
+  "sid": 149,
+  "lifeSpan": "10 - 13 years",
+  "name": "Labrador Retriever",
+  "temperament": "Kind, Outgoing, Agile, Gentle, Intelligent, Trusting, Even Tempered",
+  "weight": "25 - 36",
+  "image": "https://cdn2.thedogapi.com/images/B1uW7l5VX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b95e"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "41 - 48",
+  "sid": 151,
+  "lifeSpan": "14 - 16 years",
+  "name": "Lagotto Romagnolo",
+  "temperament": "Keen, Loyal, Companionable, Loving, Active, Trainable",
+  "weight": "11 - 16",
+  "image": "https://cdn2.thedogapi.com/images/ryzzmgqE7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b95f"
+  },
+  "favorite": 0,
+  "height": "25 - 30",
+  "sid": 153,
+  "lifeSpan": "12 – 15 years",
+  "name": "Lancashire Heeler",
+  "temperament": "Clever, Friendly, Alert, Intelligent",
+  "weight": "3 - 6",
+  "image": "https://cdn2.thedogapi.com/images/S1RGml5Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b960"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "65 - 80",
+  "sid": 155,
+  "lifeSpan": "6 - 8 years",
+  "name": "Leonberger",
+  "temperament": "Obedient, Fearless, Loyal, Companionable, Adaptable, Loving",
+  "weight": "54 - 77",
+  "image": "https://cdn2.thedogapi.com/images/ByrmQlqVm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b961"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "25 - 28",
+  "sid": 156,
+  "lifeSpan": "12 - 15 years",
+  "name": "Lhasa Apso",
+  "temperament": "Steady, Fearless, Friendly, Devoted, Assertive, Spirited, Energetic, Lively, Alert, Obedient, Playful, Intelligent",
+  "weight": "5 - 8",
+  "image": "https://cdn2.thedogapi.com/images/SJp7Qe5EX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b962"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "20 - 25",
+  "sid": 161,
+  "lifeSpan": "15 - 18 years",
+  "name": "Maltese",
+  "temperament": "Playful, Docile, Fearless, Affectionate, Sweet-Tempered, Lively, Responsive, Easygoing, Gentle, Intelligent, Active",
+  "weight": "2 - 3",
+  "image": "https://cdn2.thedogapi.com/images/B1SV7gqN7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b963"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "33 - 46",
+  "sid": 165,
+  "lifeSpan": "12 - 15 years",
+  "name": "Miniature American Shepherd",
+  "temperament": "Energetic, Loyal, Intelligent, Trainable",
+  "weight": "9 - 18",
+  "image": "https://cdn2.thedogapi.com/images/BkHHQgcN7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b964"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "25 - 32",
+  "sid": 167,
+  "lifeSpan": "15 years",
+  "name": "Miniature Pinscher",
+  "temperament": "Clever, Outgoing, Friendly, Energetic, Responsive, Playful",
+  "weight": "4 - 5",
+  "image": "https://cdn2.thedogapi.com/images/Hy3H7g94X_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b965"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "30 - 36",
+  "sid": 168,
+  "lifeSpan": "12 - 14 years",
+  "name": "Miniature Schnauzer",
+  "temperament": "Fearless, Friendly, Spirited, Alert, Obedient, Intelligent",
+  "weight": "5 - 9",
+  "image": "https://cdn2.thedogapi.com/images/SJIUQl9NX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b966"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "66 - 71",
+  "sid": 171,
+  "lifeSpan": "8 - 10 years",
+  "name": "Newfoundland",
+  "temperament": "Sweet-Tempered, Gentle, Trainable",
+  "weight": "45 - 68",
+  "image": "https://cdn2.thedogapi.com/images/Sk4DXl54m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b967"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "23 - 25",
+  "sid": 172,
+  "lifeSpan": "12 - 15 years",
+  "name": "Norfolk Terrier",
+  "temperament": "Self-confidence, Fearless, Spirited, Companionable, Happy, Lovable",
+  "weight": "5 - 5",
+  "image": "https://cdn2.thedogapi.com/images/B1ADQg94X_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b968"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "25",
+  "sid": 176,
+  "lifeSpan": "12 - 15 years",
+  "name": "Norwich Terrier",
+  "temperament": "Hardy, Affectionate, Energetic, Sensitive, Intelligent",
+  "weight": "5 - 5",
+  "image": "https://cdn2.thedogapi.com/images/BkgKXlqE7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b969"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "43 - 53",
+  "sid": 177,
+  "lifeSpan": "12 - 14 years",
+  "name": "Nova Scotia Duck Tolling Retriever",
+  "temperament": "Outgoing, Alert, Patient, Intelligent, Loving",
+  "weight": "16 - 23",
+  "image": "https://cdn2.thedogapi.com/images/SyYtQe5V7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b96a"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "53",
+  "sid": 178,
+  "lifeSpan": "10 - 12 years",
+  "name": "Old English Sheepdog",
+  "temperament": "Sociable, Bubbly, Playful, Adaptable, Intelligent, Loving",
+  "weight": "27 - 45",
+  "image": "https://cdn2.thedogapi.com/images/HkZ57lq4m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b96b"
+  },
+  "favorite": 0,
+  "height": "38 - 48",
+  "sid": 179,
+  "lifeSpan": "9 – 14 years",
+  "name": "Olde English Bulldogge",
+  "temperament": "Friendly, Alert, Confident, Loving, Courageous, Strong",
+  "weight": "NaN",
+  "image": "https://cdn2.thedogapi.com/images/B1d5me547_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b96c"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "20 - 28",
+  "sid": 181,
+  "lifeSpan": "13 - 17 years",
+  "name": "Papillon",
+  "temperament": "Hardy, Friendly, Energetic, Alert, Intelligent, Happy",
+  "weight": "1 - 5",
+  "image": "https://cdn2.thedogapi.com/images/SkJj7e547_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b96d"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "15 - 23",
+  "sid": 183,
+  "lifeSpan": "14 - 18 years",
+  "name": "Pekingese",
+  "temperament": "Opinionated, Good-natured, Stubborn, Affectionate, Aggressive, Intelligent",
+  "weight": "6",
+  "image": "https://cdn2.thedogapi.com/images/ByIiml9Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b96e"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "25 - 30",
+  "sid": 184,
+  "lifeSpan": "12 - 14 years",
+  "name": "Pembroke Welsh Corgi",
+  "temperament": "Tenacious, Outgoing, Friendly, Bold, Playful, Protective",
+  "weight": "11 - 14",
+  "image": "https://cdn2.thedogapi.com/images/rJ6iQeqEm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b96f"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "56 - 65",
+  "sid": 185,
+  "lifeSpan": "10 - 12 years",
+  "name": "Perro de Presa Canario",
+  "temperament": "Strong Willed, Suspicious, Gentle, Dominant, Calm",
+  "weight": "40 - 50",
+  "image": "https://cdn2.thedogapi.com/images/S1V3Qeq4X_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b970"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "53 - 64",
+  "sid": 188,
+  "lifeSpan": "12 - 14 years",
+  "name": "Pharaoh Hound",
+  "temperament": "Affectionate, Sociable, Playful, Intelligent, Active, Trainable",
+  "weight": "18 - 27",
+  "image": "https://cdn2.thedogapi.com/images/Byz6mgqEQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b971"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "51 - 64",
+  "sid": 189,
+  "lifeSpan": "12 - 14 years",
+  "name": "Plott",
+  "temperament": "Bold, Alert, Loyal, Intelligent",
+  "weight": "18 - 27",
+  "image": "https://cdn2.thedogapi.com/images/B1i67l5VQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b972"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "20 - 30",
+  "sid": 193,
+  "lifeSpan": "15 years",
+  "name": "Pomeranian",
+  "temperament": "Extroverted, Friendly, Sociable, Playful, Intelligent, Active",
+  "weight": "1 - 3",
+  "image": "https://cdn2.thedogapi.com/images/HJd0XecNX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b973"
+  },
+  "favorite": 0,
+  "height": "28 - 38",
+  "sid": 196,
+  "lifeSpan": "12 – 15 years",
+  "name": "Poodle (Miniature)",
+  "weight": "7 - 8",
+  "image": "https://cdn2.thedogapi.com/images/Hkxk4ecVX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b974"
+  },
+  "favorite": 0,
+  "height": "23 - 28",
+  "sid": 197,
+  "lifeSpan": "18 years",
+  "name": "Poodle (Toy)",
+  "weight": "3 - 4",
+  "image": "https://cdn2.thedogapi.com/images/rJFJVxc4m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b975"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "25 - 30",
+  "sid": 201,
+  "lifeSpan": "12 - 14 years",
+  "name": "Pug",
+  "temperament": "Docile, Clever, Charming, Stubborn, Sociable, Playful, Quiet, Attentive",
+  "weight": "6 - 8",
+  "image": "https://cdn2.thedogapi.com/images/HyJvcl9N7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b976"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "41 - 43",
+  "sid": 204,
+  "lifeSpan": "12 - 16 Years years",
+  "name": "Puli",
+  "temperament": "Energetic, Agile, Loyal, Obedient, Intelligent, Faithful",
+  "weight": "11 - 16",
+  "image": "https://cdn2.thedogapi.com/images/ryPgVl5N7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b977"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "38 - 47",
+  "sid": 205,
+  "lifeSpan": "13 - 15 years",
+  "name": "Pumi",
+  "temperament": "Lively, Reserved, Intelligent, Active, Protective, Vocal",
+  "weight": "8 - 15",
+  "image": "https://cdn2.thedogapi.com/images/SyRe4xcN7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b978"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "25 - 33",
+  "sid": 207,
+  "lifeSpan": "12 - 18 years",
+  "name": "Rat Terrier",
+  "temperament": "Affectionate, Lively, Inquisitive, Alert, Intelligent, Loving",
+  "weight": "4 - 11",
+  "image": "https://cdn2.thedogapi.com/images/HkXWNl9E7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b979"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "53 - 69",
+  "sid": 208,
+  "lifeSpan": "10 - 12 years",
+  "name": "Redbone Coonhound",
+  "temperament": "Affectionate, Energetic, Independent, Companionable, Familial, Unflappable",
+  "weight": "20 - 36",
+  "image": "https://cdn2.thedogapi.com/images/HJMzEl5N7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b97a"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "61 - 69",
+  "sid": 209,
+  "lifeSpan": "10 - 12 years",
+  "name": "Rhodesian Ridgeback",
+  "temperament": "Strong Willed, Mischievous, Loyal, Dignified, Sensitive, Intelligent",
+  "weight": "34 - 36",
+  "image": "https://cdn2.thedogapi.com/images/By9zNgqE7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b97b"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "56 - 69",
+  "sid": 210,
+  "lifeSpan": "8 - 10 years",
+  "name": "Rottweiler",
+  "temperament": "Steady, Good-natured, Fearless, Devoted, Alert, Obedient, Confident, Self-assured, Calm, Courageous",
+  "weight": "34 - 50",
+  "image": "https://cdn2.thedogapi.com/images/r1xXEgcNX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b97c"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "19 - 27",
+  "sid": 211,
+  "lifeSpan": "10 - 12 years",
+  "name": "Russian Toy",
+  "weight": "1 - 3",
+  "image": "https://cdn2.thedogapi.com/images/HkP7Vxc4Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b97d"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "65 - 70",
+  "sid": 212,
+  "lifeSpan": "7 - 10 years",
+  "name": "Saint Bernard",
+  "temperament": "Friendly, Lively, Gentle, Watchful, Calm",
+  "weight": "59 - 82",
+  "image": "https://cdn2.thedogapi.com/images/pxtkPmg3b.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b97e"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "58 - 71",
+  "sid": 213,
+  "lifeSpan": "12 - 14 years",
+  "name": "Saluki",
+  "temperament": "Aloof, Reserved, Intelligent, Quiet",
+  "weight": "16 - 29",
+  "image": "https://cdn2.thedogapi.com/images/B35dV8-1_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b97f"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "48 - 60",
+  "sid": 214,
+  "lifeSpan": "12 - 14 years",
+  "name": "Samoyed",
+  "temperament": "Stubborn, Friendly, Sociable, Lively, Alert, Playful",
+  "weight": "23 - 27",
+  "image": "https://cdn2.thedogapi.com/images/S1T8Ee9Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b980"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "25 - 33",
+  "sid": 216,
+  "lifeSpan": "13 - 15 years",
+  "name": "Schipperke",
+  "temperament": "Fearless, Agile, Curious, Independent, Confident, Faithful",
+  "weight": "5 - 7",
+  "image": "https://cdn2.thedogapi.com/images/SyBvVgc47_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b981"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "71 - 81",
+  "sid": 218,
+  "lifeSpan": "8 - 10 years",
+  "name": "Scottish Deerhound",
+  "temperament": "Docile, Friendly, Dignified, Gentle",
+  "weight": "32 - 59",
+  "image": "https://cdn2.thedogapi.com/images/SkNjqx9NQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b982"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "25",
+  "sid": 219,
+  "lifeSpan": "11 - 13 years",
+  "name": "Scottish Terrier",
+  "temperament": "Feisty, Alert, Independent, Playful, Quick, Self-assured",
+  "weight": "8 - 10",
+  "image": "https://cdn2.thedogapi.com/images/Bklnce5NX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b983"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "33 - 41",
+  "sid": 221,
+  "lifeSpan": "12 - 14 years",
+  "name": "Shetland Sheepdog",
+  "temperament": "Affectionate, Lively, Responsive, Alert, Loyal, Reserved, Playful, Gentle, Intelligent, Active, Trainable, Strong",
+  "weight": "14",
+  "image": "https://cdn2.thedogapi.com/images/rJa29l9E7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b984"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "34 - 42",
+  "sid": 222,
+  "lifeSpan": "12 - 16 years",
+  "name": "Shiba Inu",
+  "temperament": "Charming, Fearless, Keen, Alert, Confident, Faithful",
+  "weight": "8 - 10",
+  "image": "https://cdn2.thedogapi.com/images/_LWIQOpXG.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b985"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "20 - 28",
+  "sid": 223,
+  "lifeSpan": "10 - 18 years",
+  "name": "Shih Tzu",
+  "temperament": "Clever, Spunky, Outgoing, Friendly, Affectionate, Lively, Alert, Loyal, Independent, Playful, Gentle, Intelligent, Happy, Active, Courageous",
+  "weight": "4 - 7",
+  "image": "https://cdn2.thedogapi.com/images/BkrJjgcV7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b986"
+  },
+  "favorite": 0,
+  "height": "66 - 76",
+  "sid": 225,
+  "lifeSpan": "9 – 14 years",
+  "name": "Shiloh Shepherd",
+  "temperament": "Outgoing, Loyal, Companionable, Gentle, Loving, Trainable",
+  "weight": "54 - 64",
+  "image": "https://cdn2.thedogapi.com/images/SJJxjecEX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b987"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "51 - 60",
+  "sid": 226,
+  "lifeSpan": "12 years",
+  "name": "Siberian Husky",
+  "temperament": "Outgoing, Friendly, Alert, Gentle, Intelligent",
+  "weight": "16 - 27",
+  "image": "https://cdn2.thedogapi.com/images/S17ZilqNm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b988"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "23 - 25",
+  "sid": 228,
+  "lifeSpan": "12 - 15 years",
+  "name": "Silky Terrier",
+  "temperament": "Friendly, Responsive, Inquisitive, Alert, Quick, Joyful",
+  "weight": "4 - 5",
+  "image": "https://cdn2.thedogapi.com/images/ByzGsl5Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b989"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "39",
+  "sid": 232,
+  "lifeSpan": "12 - 14 years",
+  "name": "Smooth Fox Terrier",
+  "temperament": "Fearless, Affectionate, Alert, Playful, Intelligent, Active",
+  "weight": "NaN - 8",
+  "image": "https://cdn2.thedogapi.com/images/Syszjx9Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b98a"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "41 - 46",
+  "sid": 233,
+  "lifeSpan": "12 - 15 years",
+  "name": "Soft Coated Wheaten Terrier",
+  "temperament": "Affectionate, Spirited, Energetic, Playful, Intelligent, Faithful",
+  "weight": "14 - 18",
+  "image": "https://cdn2.thedogapi.com/images/HJHmix5NQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b98b"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "41 - 51",
+  "sid": 235,
+  "lifeSpan": "12 - 15 years",
+  "name": "Spanish Water Dog",
+  "temperament": "Trainable, Diligent, Affectionate, Loyal, Athletic, Intelligent",
+  "weight": "14 - 23",
+  "image": "https://cdn2.thedogapi.com/images/HJf4jl9VX_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b98c"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "57 - 70",
+  "sid": 236,
+  "lifeSpan": "10 - 12 years",
+  "name": "Spinone Italiano",
+  "temperament": "Docile, Friendly, Affectionate, Loyal, Patient, Gentle",
+  "weight": "28 - 39",
+  "image": "https://cdn2.thedogapi.com/images/rk5Eoe5Nm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b98d"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "36 - 41",
+  "sid": 238,
+  "lifeSpan": "12 - 14 years",
+  "name": "Staffordshire Bull Terrier",
+  "temperament": "Reliable, Fearless, Bold, Affectionate, Loyal, Intelligent, Courageous",
+  "weight": "11 - 17",
+  "image": "https://cdn2.thedogapi.com/images/H1zSie9V7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b98e"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "44 - 50",
+  "sid": 239,
+  "lifeSpan": "13 - 15 years",
+  "name": "Standard Schnauzer",
+  "temperament": "Trainable, Good-natured, Devoted, Lively, Playful, Intelligent",
+  "weight": "14 - 23",
+  "image": "https://cdn2.thedogapi.com/images/VU6TmJM8z.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b98f"
+  },
+  "favorite": 0,
+  "breedGroup": "herding",
+  "height": "29 - 34",
+  "sid": 242,
+  "lifeSpan": "12 - 14 years",
+  "name": "Swedish Vallhund",
+  "temperament": "Fearless, Friendly, Energetic, Alert, Intelligent, Watchful",
+  "weight": "9 - 14",
+  "image": "https://cdn2.thedogapi.com/images/HJ-Dix94Q_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b990"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "51 - 61",
+  "sid": 243,
+  "lifeSpan": "10 - 12 years",
+  "name": "Thai Ridgeback",
+  "temperament": "Protective, Loyal, Independent, Intelligent, Loving, Familial",
+  "weight": "16 - 25",
+  "image": "https://cdn2.thedogapi.com/images/zv89hR-O8.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b991"
+  },
+  "favorite": 0,
+  "breedGroup": "working",
+  "height": "61 - 66",
+  "sid": 244,
+  "lifeSpan": "10 - 14 years",
+  "name": "Tibetan Mastiff",
+  "temperament": "Strong Willed, Tenacious, Aloof, Stubborn, Intelligent, Protective",
+  "weight": "39 - 64",
+  "image": "https://cdn2.thedogapi.com/images/SkM9sec47_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b992"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "25",
+  "sid": 245,
+  "lifeSpan": "12 - 15 years",
+  "name": "Tibetan Spaniel",
+  "temperament": "Willful, Aloof, Assertive, Independent, Playful, Intelligent, Happy",
+  "weight": "4 - 7",
+  "image": "https://cdn2.thedogapi.com/images/Hyjcol947_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b993"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "36 - 43",
+  "sid": 246,
+  "lifeSpan": "12 - 15 years",
+  "name": "Tibetan Terrier",
+  "temperament": "Affectionate, Energetic, Amiable, Reserved, Gentle, Sensitive",
+  "weight": "9 - 11",
+  "image": "https://cdn2.thedogapi.com/images/72Ttvx0Iz.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b994"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "20 - 28",
+  "sid": 248,
+  "lifeSpan": "12 - 15 years",
+  "name": "Toy Fox Terrier",
+  "temperament": "Friendly, Spirited, Alert, Loyal, Playful, Intelligent",
+  "weight": "2 - 4",
+  "image": "https://cdn2.thedogapi.com/images/B17ase9V7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b995"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "51 - 69",
+  "sid": 250,
+  "lifeSpan": "10 - 13 years",
+  "name": "Treeing Walker Coonhound",
+  "temperament": "Clever, Affectionate, Confident, Intelligent, Loving, Trainable",
+  "weight": "20 - 36",
+  "image": "https://cdn2.thedogapi.com/images/SkRpsgc47_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b996"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "53 - 61",
+  "sid": 251,
+  "lifeSpan": "10 - 14 years",
+  "name": "Vizsla",
+  "temperament": "Affectionate, Energetic, Loyal, Gentle, Quiet",
+  "weight": "23 - 29",
+  "image": "https://cdn2.thedogapi.com/images/r1o0jx9Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b997"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "58 - 69",
+  "sid": 253,
+  "lifeSpan": "12 - 15 years",
+  "name": "Weimaraner",
+  "temperament": "Steady, Aloof, Stubborn, Energetic, Alert, Intelligent, Powerful, Fast",
+  "weight": "25 - 41",
+  "image": "https://cdn2.thedogapi.com/images/SyU12l9V7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b998"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "43 - 48",
+  "sid": 254,
+  "lifeSpan": "12 - 15 years",
+  "name": "Welsh Springer Spaniel",
+  "temperament": "Stubborn, Friendly, Affectionate, Loyal, Playful, Active",
+  "weight": "16 - 25",
+  "image": "https://cdn2.thedogapi.com/images/BJ1gnx5Vm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b999"
+  },
+  "favorite": 0,
+  "breedGroup": "terrier",
+  "height": "25 - 28",
+  "sid": 256,
+  "lifeSpan": "15 - 20 years",
+  "name": "West Highland White Terrier",
+  "temperament": "Hardy, Friendly, Alert, Independent, Gay, Active, Courageous",
+  "weight": "7 - 10",
+  "image": "https://cdn2.thedogapi.com/images/Bkdx2g5Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b99a"
+  },
+  "favorite": 0,
+  "breedGroup": "hound",
+  "height": "46 - 56",
+  "sid": 257,
+  "lifeSpan": "12 - 15 years",
+  "name": "Whippet",
+  "temperament": "Friendly, Affectionate, Lively, Gentle, Intelligent, Quiet",
+  "weight": "11 - 16",
+  "image": "https://cdn2.thedogapi.com/images/Hyv-ne94m_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b99b"
+  },
+  "favorite": 0,
+  "height": "56 - 64",
+  "sid": 258,
+  "lifeSpan": "12 – 14 years",
+  "name": "White Shepherd",
+  "temperament": "Self-confidence, Aloof, Fearless, Alert, Companionable, Eager",
+  "weight": "27 - 39",
+  "image": "https://cdn2.thedogapi.com/images/r14M3e9E7_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b99c"
+  },
+  "favorite": 0,
+  "height": "33 - 41",
+  "sid": 259,
+  "lifeSpan": "13 – 14 years",
+  "name": "Wire Fox Terrier",
+  "temperament": "Fearless, Friendly, Bold, Keen, Alert, Quick",
+  "weight": "7 - 9",
+  "image": "https://cdn2.thedogapi.com/images/SJ6f2g9EQ_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b99d"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "51 - 61",
+  "sid": 260,
+  "lifeSpan": "12 - 14 years",
+  "name": "Wirehaired Pointing Griffon",
+  "temperament": "Loyal, Gentle, Vigilant, Trainable, Proud",
+  "weight": "20 - 32",
+  "image": "https://cdn2.thedogapi.com/images/Bkam2l9Vm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b99e"
+  },
+  "favorite": 0,
+  "breedGroup": "sporting",
+  "height": "55 - 64",
+  "sid": 261,
+  "lifeSpan": "12 - 14 years",
+  "name": "Wirehaired Vizsla",
+  "weight": "20 - 29",
+  "image": "https://cdn2.thedogapi.com/images/r1I4hl5Em_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b99f"
+  },
+  "favorite": 0,
+  "breedGroup": "non-sporting",
+  "height": "25 - 58",
+  "sid": 262,
+  "lifeSpan": "12 - 14 years",
+  "name": "Xoloitzcuintli",
+  "temperament": "Cheerful, Alert, Companionable, Intelligent, Protective, Calm",
+  "weight": "4 - 14",
+  "image": "https://cdn2.thedogapi.com/images/HkNS3gqEm_1280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0fdf58d3758e18bc95b9a0"
+  },
+  "favorite": 0,
+  "breedGroup": "toy",
+  "height": "20 - 23",
+  "sid": 264,
+  "lifeSpan": "12 - 16 years",
+  "name": "Yorkshire Terrier",
+  "temperament": "Bold, Independent, Confident, Intelligent, Courageous",
+  "weight": "2 - 3",
+  "image": "https://cdn2.thedogapi.com/images/B12BnxcVQ_1280.jpg",
+  "__v": 0
+}]
